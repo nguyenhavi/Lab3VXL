@@ -1,0 +1,4 @@
+display7SEG.c:10:6:display7SEG_1	16	static
+display7SEG.c:103:6:display7SEG_2	16	static
+display7SEG.c:196:6:update7SEG1forMode234	16	static
+display7SEG.c:233:6:traffic_time	16	static
